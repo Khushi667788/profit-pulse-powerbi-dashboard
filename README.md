@@ -76,6 +76,7 @@ Profit-Pulse-Dashboard/
 - Profitability monitoring dashboard for retail companies
 - KPI-based decision-making for marketing & sales teams
 - Comparative analysis across categories, time, and geography
+<img width="1470" height="956" alt="Screenshot 2025-11-19 at 2 50 26 PM" src="https://github.com/user-attachments/assets/c4d9845a-1a55-4565-9ed9-44d8232a2802" />
 
 ---
 
